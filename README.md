@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+## My name is Tomek and this is me during studying GitHub for a first time:
+
+![it really seems to be difficult, hopefully, it will get easier with time and practise](https://miro.medium.com/v2/0*ZjYSm_q36J4KChdn)
+
+
+
 
 <!--
 **tomaszporebski/tomaszporebski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
