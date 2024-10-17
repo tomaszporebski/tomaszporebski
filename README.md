@@ -1,7 +1,7 @@
 # Hi there 👋
 ## My name is Tomek and this is me during studying GitHub for a first time:
 
-![it really seems to be difficult, hopefully, it will get easier with time and practise](https://miro.medium.com/v2/0*ZjYSm_q36J4KChdn)
+![it really seems to be difficult, hopefully, it will get easier with time and practise](https://www.dictionary.com/e/wp-content/uploads/2018/03/This-is-Fine-300x300.jpg)
 
 
 
